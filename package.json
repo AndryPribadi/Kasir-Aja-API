@@ -1,0 +1,21 @@
+{
+  "name": "sanber-tugas-pekan3-api-automation",
+  "version": "1.0.0",
+  "description": "tugas pekan 3 api automation",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "andry",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.0.3",
+    "jsonschema": "^1.4.1",
+    "supertest": "^6.3.4"
+  },
+  "devDependencies": {
+    "mocha": "^10.3.0",
+    "mochawesome": "^7.1.3"
+  }
+}
